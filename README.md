@@ -1,6 +1,6 @@
-# 💰 FinGuid
+# 💰 FinGuid Turn Your Financial Goals into Actionable Plans.
 
-Turn financial goals into actionable plans.
+
 
 FinGuid is an AI-powered financial planning assistant that helps users explore realistic paths toward achieving their financial goals. Users provide their goal, target amount, timeline, and financial situation, and the AI generates personalized financial insights and recommendations.
 
