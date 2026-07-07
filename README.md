@@ -1,4 +1,4 @@
-# 💰 FinGuid Turn Your Financial Goals into Actionable Plans.
+# 💰 FinGuid -- Turn Your Financial Goals into Actionable Plans --
 
 
 
