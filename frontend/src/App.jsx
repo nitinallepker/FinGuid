@@ -38,7 +38,7 @@ function App() {
     try {
 
       const response = await axios.post(
-        "https://finguid-backend.onrender.com",
+        "https://finguid-backend.onrender.com/chat",
         {
           message,
         }
